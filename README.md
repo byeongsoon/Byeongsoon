@@ -1,39 +1,34 @@
-### Hi there 👋
+### 👨🏻‍💻 JB | 경험으로 일하는 개발자 👋
 
-<!--
-**ByeongSoon/Byeongsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🚀 About Me
-
-백엔드 개발자
-
-🎓 
-
-한밭대학교 정보통신공학과 학사(2013.03. ~ 2018.02.)
-
-한밭대학교 모바일융합공학과 석사(2018.03. ~ 2022.02.)
-
-👨
-
-HashFactory(2017.6.1 ~ 2017.12.31.)
-
- - 청각&시각 장애인을 위한 '소리토피아' 하이브리드앱을 위한 웹&안드로이드 어플 개발
+- **안녕하세요! 백엔드 개발자 장병순입니다.**
+- **[끊임없이 성장에 도전](https://www.notion.so/09fd964f81c24b6785d9c26ef70bcd5e)하기 위한 경험을 중요시 합니다.**
+- **함께 성장하는 즐거움을 알기에 [개발 크루](https://dev-playground.oopy.io/)를 운영중입니다.**
+- **코더가 아닌 개발자가 되기 위해 문제해결 능력을 중요시 합니다.**
+- **최근** **[TDD](https://github.com/develop-playground/Unit-Test-Study)에 대해 많은 관심을 가지고 있습니다.**
+- **멋쟁이 사자처럼 백엔드 스쿨 멘토로 활동중에 [워니님](https://wonny.space/)의 이력서 작성법 특강을 듣고 작성해본 [이력서](https://byeongsoon.notion.site/JB-970de68ea9dd49cc9810eb33f77d873b) 입니다.**
 
 
-국방통합데이터센터(2019.7.18. ~ )
+## 🛠️ Skills
 
+### Back-end
+
+- Java
+- Spring MVC, Spring Boot, Spring Data JPA, Spring Security
+- JPA, MySQL, PostgreSQL
+- Gradle, JUnit 5
+
+### DevOps
+
+- Docker, GIthub Actions
+- AWS EC2, Linux
+- Git(Github, GitLab)
+
+### Tools
+
+- IntelliJ, DataGrip, Postman
+- Slack, Zoom, Gather, Discord, Notion
 
 ## 📈 Stats
 
@@ -45,9 +40,9 @@ HashFactory(2017.6.1 ~ 2017.12.31.)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
 
+## 🎓 Education
 
-## 🛠️ Skills
+한밭대학교 모바일융합공학과 석사(2018.03. ~ 2022.02.)
 
-
-### Languages
+한밭대학교 정보통신공학과 학사(2013.03. ~ 2018.02.)
 
