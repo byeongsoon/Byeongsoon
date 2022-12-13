@@ -33,11 +33,11 @@
 ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Byeongsoon&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=byeongsoon&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
 </div>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=byeongsoon.visitor" alt="visitors">
 </div>
 
 ## 🎓 Education
