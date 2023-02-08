@@ -6,23 +6,23 @@
 - **[끊임없이 성장에 도전](https://www.notion.so/09fd964f81c24b6785d9c26ef70bcd5e)하기 위한 경험을 중요시 합니다.**
 - **함께 성장하는 즐거움을 알기에 [개발 크루](https://dev-playground.oopy.io/)를 운영중입니다.**
 - **코더가 아닌 개발자가 되기 위해 문제해결 능력을 중요시 합니다.**
-- **최근** **[TDD](https://github.com/develop-playground/Unit-Test-Study)에 대해 많은 관심을 가지고 있습니다.**
-- **멋쟁이 사자처럼 백엔드 스쿨 멘토로 활동중에 [워니님](https://wonny.space/)의 이력서 작성법 특강을 듣고 작성해본 [이력서](https://byeongsoon.notion.site/JB-970de68ea9dd49cc9810eb33f77d873b) 입니다.**
+- **최근** **[단위 테스트](https://github.com/develop-playground/Unit-Test-Study)에 대해 많은 관심을 가지고 있습니다.**
+- **멋쟁이 사자처럼 백엔드 스쿨 멘토 활동 시 [워니님](https://wonny.space/)의 이력서 작성법 특강을 듣고 작성해본 [이력서](https://byeongsoon.notion.site/JB-970de68ea9dd49cc9810eb33f77d873b) 입니다.**
 
 
 ## 🛠️ Skills
 
 ### Back-end
 
-- Java
+- Java, Kotlin
 - Spring MVC, Spring Boot, Spring Data JPA, Spring Security
 - JPA, MySQL, PostgreSQL
-- Gradle, JUnit 5
+- Gradle, JUnit 5, Swagger 3.0
 
 ### DevOps
 
 - Docker, GIthub Actions
-- AWS EC2, Linux
+- AWS EC2, AWS RDS, Linux
 - Git(Github, GitLab)
 
 ### Tools
