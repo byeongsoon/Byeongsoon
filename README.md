@@ -5,8 +5,7 @@
 - **끊임없이 성장에 도전하기 위한 경험을 중요시 합니다.**
 - **함께 성장하는 즐거움을 알기에 [개발 크루](https://dev-playground.oopy.io/)를 운영중입니다.**
 - **코더가 아닌 개발자가 되기 위해 문제해결 능력을 중요시 합니다.**
-- **최근** **[단위 테스트](https://github.com/develop-playground/Unit-Test-Study)와 [코틀린](https://github.com/byeongsoon/library-app-java-to-kotlin-converting)에 대해 많은 관심을 가지고 있습니다.**
-- [워니님](https://wonny.space/)의 이력서 작성법 특강을 듣고 작성한 [이력서](https://byeongsoon.notion.site/JB-970de68ea9dd49cc9810eb33f77d873b) 입니다.**
+- **[단위 테스트](https://github.com/develop-playground/Unit-Test-Study)와 [코틀린](https://github.com/byeongsoon/library-app-java-to-kotlin-converting)에 대해 많은 관심을 가지고 있습니다.**
 
 
 ## 🛠️ Skills
